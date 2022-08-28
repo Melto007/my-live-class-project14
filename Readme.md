@@ -1,4 +1,4 @@
-# Project 14 [Live link](https://project14-photography.netlify.app/)
+# Project 14 [Live link](https://my-live-class-project14.netlify.app/)
 
 ## skills gained from this project
     - I learned to use grid to align elements into columns and rows.
